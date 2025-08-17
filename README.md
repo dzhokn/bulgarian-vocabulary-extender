@@ -10,7 +10,7 @@
 
 **Data:** Data will be fetched from *Chitanka, GitHub, Kaggle, HuggingFace*, other public and private sources.
 
-**Results:** The initial `Chitanka` set of words has been increased by `+10.6%`.
+**Results:** The initial `Chitanka` vocabulary has been increased by `+10.6%`.
 
 **Keywords:** *bulgarian language, words, vocabulary, dictionary*
 
